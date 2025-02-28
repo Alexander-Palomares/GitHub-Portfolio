@@ -2,7 +2,8 @@
 
 ### Education 
 CS50x: CS50’s Introduction to Computer Science -HarvardX
-TryHackMe SOC Level 1 
+TryHackMe SOC Level 1
+exp
 
 ### Certification 
 CompTIA Security+ 
