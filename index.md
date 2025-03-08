@@ -51,13 +51,13 @@ end
 
 ###### Familiar Tools
 
-|                  |                       |         |         |
-|:-----------------|:----------------------|:--------|:--------|
-| Wiresshark       | Cuckoo Sandbox        | SPLUNK  | Autopsy |
-| Volatility       | Virustotal            | OSquery | TCPDUMP |
-| Active Directory | METESPLOIT            | MISP    | Slack   |
-| Sysmon           | AZURE Security Center | NMAP    | OPENVAS |
-| Powershell       | Linux Command Line    | RDP     | TheHIVE |
+|                    |                       |         |         |
+|:-------------------|:----------------------|:--------|:--------|
+| Wiresshark         | Cuckoo Sandbox        | SPLUNK  | Autopsy |
+| Linux Command Line | Virustotal            | OSquery | Tcpdump |
+| Active Directory   | metasploit            | MISP    | Slack   |
+| Sysmon             | Azure Security Center | NMAP    | Openvas |
+| Powershell         | Volatility            | RDP     | TheHIVE |
 
 ### There's a horizontal rule below this.
 
