@@ -1,4 +1,5 @@
 ### Project/Labs 
+* * *
 
 | Skills             | Associated Project/Labs |
 |:-------------------|:------------------------|
@@ -8,11 +9,8 @@
 | Sysmon             | Azure Security Center   |
 | Powershell         | Volatility              |
 
-
-
-[Link to another page](./another-page.html).
-
 ### Familiar Tools
+* * *
 
 |                    |                       |         |         |
 |:-------------------|:----------------------|:--------|:--------|
@@ -31,6 +29,10 @@
 *   Google IT Support
 *   Google Cybersecurity 
 
+
+
+### Link
+[Link to another page](./another-page.html).
 
 ### Small image
 
