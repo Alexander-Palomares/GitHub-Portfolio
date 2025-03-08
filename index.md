@@ -63,12 +63,13 @@ end
 
 * * *
 
-### Here is an unordered list:
+### Certification
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+*   CompTIA Security+
+*   CS50x Introduction to Computer Science
+*   TryHackMe SOC Level 1
+*   Google IT Support
+*   Google Cybersecurity 
 
 ### And an ordered list:
 
