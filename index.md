@@ -1,6 +1,14 @@
----
-layout: default
----
+### Project/Labs 
+
+| Skills             | Associated Project/Labs |
+|:-------------------|:------------------------|
+| Wiresshark         | Cuckoo Sandbox          |
+| Linux Command Line | Virustotal              |
+| Active Directory   | metasploit              |
+| Sysmon             | Azure Security Center   |
+| Powershell         | Volatility              |
+
+
 
 [Link to another page](./another-page.html).
 
