@@ -27,16 +27,3 @@
 *   TryHackMe SOC Level 1
 *   Google IT Support
 *   Google Cybersecurity 
-
-
-
-### Link
-[Link to another page](./another-page.html).
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](20241127_134152.jpg)
