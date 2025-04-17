@@ -1,6 +1,8 @@
 ### Project/Labs 
 * * *
--[Vulnerability Management](https://github.com/Alexander-Palomares/Project-Vulnerability-Management)
+
+- **[Vulnerability Management Program Implementation](https://github.com/Alexander-Palomares/Project-Vulnerability-Management)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Alexander-Palomares/Threat-Hunting-Scenario-Tor/tree/main)**
 
 | Skills             | Associated Project/Labs |
 |:-------------------|:------------------------|
