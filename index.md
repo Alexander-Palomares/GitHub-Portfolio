@@ -7,12 +7,12 @@
 
 | Skills             | Associated Project/Labs |
 |:-------------------|:------------------------|
-|Vulnerability Management|[Vulnerability Management Program Implementation](https://github.com/Alexander-Palomares/Project-Vulnerability-Management)|
-|Scripting & Automation|[Vulnerability Management Program Implementation](https://github.com/Alexander-Palomares/Project-Vulnerability-Management)|
-|Remediation Techniques|[Vulnerability Management Program Implementation](https://github.com/Alexander-Palomares/Project-Vulnerability-Management)|
-|Threat Detection|[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Alexander-Palomares/Threat-Hunting-Scenario-Tor/tree/main)|
-|Incident Response|[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Alexander-Palomares/Threat-Hunting-Scenario-Tor/tree/main)|
-|Endpoint Detection & Response (EDR)|[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Alexander-Palomares/Threat-Hunting-Scenario-Tor/tree/main)|
+|Vulnerability Management|[Vulnerability Management](https://github.com/Alexander-Palomares/Project-Vulnerability-Management)|
+|Scripting & Automation|[Vulnerability Management](https://github.com/Alexander-Palomares/Project-Vulnerability-Management)|
+|Remediation Techniques|[Vulnerability Management](https://github.com/Alexander-Palomares/Project-Vulnerability-Management)|
+|Threat Detection|[Threat Hunting Scenario](https://github.com/Alexander-Palomares/Threat-Hunting-Scenario-Tor/tree/main)|
+|Incident Response|[Threat Hunting Scenario](https://github.com/Alexander-Palomares/Threat-Hunting-Scenario-Tor/tree/main)|
+|Endpoint Detection & Response (EDR)|[Threat Hunting Scenario](https://github.com/Alexander-Palomares/Threat-Hunting-Scenario-Tor/tree/main)|
 |System Hardening|[STIG Remediation (WN10-AU-000500)](https://github.com/Alexander-Palomares/GitHub-Portfolio/blob/main/STIGS/WN10-AU-000500.ps1)|
 |PowerShell Scripting|[STIG Remediation (WN10-AU-000500)](https://github.com/Alexander-Palomares/GitHub-Portfolio/blob/main/STIGS/WN10-AU-000500.ps1)|
 
