@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    
+        Disables convenience PIN sign-in for domain users on Windows 10 systems by configuring the appropriate registry setting.
    
 
 .NOTES
@@ -26,3 +26,16 @@
     PS C:\> .\STIG-ID-WN10-CC-000370.ps1 
 #>
 
+# Define the registry path
+$regPath = "HKLM:\SOFTWARE\Policies\Microsoft\Windows\System"
+
+# Create the registry key if it doesn't exist
+if (-not (Test-Path $regPath)) {
+    New-Item -Path $regPath -Force | Out-Null
+}
+
+# Set the AllowDomainPINLogon value to 0 (disabled)
+Set-ItemProperty -Path $regPath -Name "AllowDomainPINLogon" -Value 0 -Type DWord
+
+# Confirm the change
+Get-ItemProperty -Path $regPath | Select-Object AllowDomainPINLogon
