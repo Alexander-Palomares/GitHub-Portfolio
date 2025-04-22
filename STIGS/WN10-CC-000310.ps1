@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    
+    Disables user control over Windows Installer to prevent users from changing installation options, as required by STIG ID WN10-CC-000150.
    
 .NOTES
     Author          : Alexander Palomares
@@ -20,7 +20,19 @@
     PowerShell Ver. : 
 
 .USAGE
-    Put any usage instructions here.
-    Example syntax:
-    PS C:\> .\STIG-ID-WN10-CC-000310.ps1 
+    PS C:\> .\STIG-ID-WN10-CC-000310.ps1
 #>
+
+# Define registry path
+$regPath = "HKLM:\SOFTWARE\Policies\Microsoft\Windows\Installer"
+
+# Create the path if it doesn't exist
+if (-not (Test-Path $regPath)) {
+    New-Item -Path $regPath -Force | Out-Null
+}
+
+# Set the EnableUserControl value to 0 (disabled)
+Set-ItemProperty -Path $regPath -Name "EnableUserControl" -Value 0 -Type DWord
+
+# Confirm the value
+Get-ItemProperty -Path $regPath | Select-Object EnableUserControl
