@@ -3,7 +3,7 @@
 
 - **[Vulnerability Management Program Implementation](https://github.com/Alexander-Palomares/Project-Vulnerability-Management)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Alexander-Palomares/Threat-Hunting-Scenario-Tor/tree/main)**
-- **[STIG Remediation (WN10-AU-000500)](https://github.com/Alexander-Palomares/GitHub-Portfolio/blob/main/STIGS/WN10-AU-000500.ps1)**
+- **[STIG Remediation](https://github.com/Alexander-Palomares/GitHub-Portfolio/tree/main/STIGS)**
 
 | Skills             | Associated Project/Labs | Skills | Associated Project/Labs |
 |:-------------------|:------------------------|:-------------------|:------------------------|
