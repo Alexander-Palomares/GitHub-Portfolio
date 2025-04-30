@@ -18,16 +18,13 @@
 |Incident Response (NIST 800-61)|[Atomic-Red](https://github.com/Alexander-Palomares/Threat-Hunting-Scenario-Atomic-Red)| PowerShell Logging Controls | [STIG Remediation (WN10-AU-000326)](https://github.com/Alexander-Palomares/GitHub-Portfolio/blob/main/STIGS/WN10-CC-000326.ps1)|
 Threat Hunting (KQL & EDR) | [Atomic-Red](https://github.com/Alexander-Palomares/Threat-Hunting-Scenario-Atomic-Red)|PowerShell Scripting| [STIG Remediation (WN10-AU-000500)](https://github.com/Alexander-Palomares/GitHub-Portfolio/blob/main/STIGS/WN10-AU-000500.ps1) |
 
-Threat Hunting (KQL & EDR) | [Atomic-Red](https://github.com/Alexander-Palomares/Threat-Hunting-Scenario-Atomic-Red)
-|PowerShell Scripting| [STIG Remediation (WN10-AU-000500)](https://github.com/Alexander-Palomares/GitHub-Portfolio/blob/main/STIGS/WN10-AU-000500.ps1)
-
 ### Familiar Tools
 * * *
 
 |                    |                       |         |         |
 |:-------------------|:----------------------|:--------|:--------|
-| Wiresshark         | Cuckoo Sandbox        | SPLUNK  | Autopsy |
-| Linux Command Line | Virustotal            | OSquery | Tcpdump |
+| Wiresshark         |Linux Command Line     | SPLUNK  | Autopsy |
+| MDE                | Virustotal            | OSquery | Tcpdump |
 | Active Directory   | metasploit            | MISP    | Slack   |
 | Sysmon             | Azure Security Center | NMAP    | Openvas |
 | Powershell         | Volatility            | RDP     | TheHIVE |
