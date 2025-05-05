@@ -8,8 +8,8 @@
 - **[Threat Hunting Scenario (Atomic Red)](https://github.com/Alexander-Palomares/Threat-Hunting-Scenario-Atomic-Red)**
 
 
-| Skills             | Associated Project/Labs | Skills | Associated Project/Labs | test | test |
-|:-------------------|:------------------------|:-------------------|:------------------------|------|------| 
+| Skills             | Associated Project/Labs | Skills | Associated Project/Labs |
+|:-------------------|:------------------------|:-------------------|:------------------------|
 |Vulnerability Management|[Vulnerability Management](https://github.com/Alexander-Palomares/Project-Vulnerability-Management)| Group Policy Management | [STIG Remediation](https://github.com/Alexander-Palomares/GitHub-Portfolio/blob/main/STIGS/WN10-AC-000020) |
 |Scripting & Automation|[Vulnerability Management](https://github.com/Alexander-Palomares/Project-Vulnerability-Management)| Technical Documentation | [STIG Remediation](https://github.com/Alexander-Palomares/GitHub-Portfolio/blob/main/STIGS/WN10-AC-000020) |
 |Remediation Techniques|[Vulnerability Management](https://github.com/Alexander-Palomares/Project-Vulnerability-Management)| Security Baseline Configuration| [STIG Remediation](https://github.com/Alexander-Palomares/GitHub-Portfolio/blob/main/STIGS/WN10-CC-000005.ps1) |
