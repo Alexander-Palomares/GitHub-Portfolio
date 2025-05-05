@@ -1,10 +1,11 @@
 ### Project/Labs 
 * * *
 
+- **[STIG Remediation](https://github.com/Alexander-Palomares/GitHub-Portfolio/tree/main/STIGS)**
 - **[Vulnerability Management Program Implementation](https://github.com/Alexander-Palomares/Project-Vulnerability-Management)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Alexander-Palomares/Threat-Hunting-Scenario-Tor/tree/main)**
-- **[STIG Remediation](https://github.com/Alexander-Palomares/GitHub-Portfolio/tree/main/STIGS)**
-- **[Threat-Hunting-Scenario-Atomic-Red)](https://github.com/Alexander-Palomares/Threat-Hunting-Scenario-Atomic-Red)**
+- **[Threat Hunting Scenario (Firefox)](https://github.com/Alexander-Palomares/Threat-Hunting-Scenario-Malicious-Firefox)**
+- **[Threat Hunting Scenario (Atomic Red)](https://github.com/Alexander-Palomares/Threat-Hunting-Scenario-Atomic-Red)**
 
 
 | Skills             | Associated Project/Labs | Skills | Associated Project/Labs |
