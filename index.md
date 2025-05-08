@@ -35,8 +35,12 @@ Threat Hunting (KQL & EDR) | [Atomic-Red](https://github.com/Alexander-Palomares
 ### Certification
 * * * 
 
-*   CompTIA Security+
-*   CS50x Introduction to Computer Science
-*   TryHackMe SOC Level 1
-*   Google IT Support
-*   Google Cybersecurity 
+| ***Certification / Course***                 | **Issuer**       | **Date Completed** |
+|----------------------------------------------|------------------|---------------------|
+| **CompTIA Security+**                        | CompTIA          | 09/21/2024          |
+| **CS50x Introduction to Computer Science**   | HarvardX         | 01/30/2024          |
+| **TryHackMe SOC Level 1**                    | TryHackMe        | 02/20/2025          |
+| **Google IT Support**                        | Google           | 04/17/2024          |
+| **Google Cybersecurity**                     | Google           | 05/30/2024          |
+
+
