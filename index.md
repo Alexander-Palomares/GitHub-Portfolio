@@ -1,4 +1,4 @@
-# Hello, I'm Alex
+# Welcome To My Portfolio 
 <a href="https://linkedin.com/in/alexander-palomares-a867202b1"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I’m a passionate learner dedicated to advancing in the tech field, taking one step at a time. With a solid foundation in computer science and coding, I’m eager to gain hands-on experience and eventually join a Security Operations Center (SOC) as a Tier 1 Analyst, where I can apply my skills and continue growing in cybersecurity.
