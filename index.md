@@ -40,3 +40,15 @@ Threat Hunting (KQL & EDR) | [Atomic-Red](https://github.com/Alexander-Palomares
 | <img src="https://img.shields.io/badge/-Google%20IT%20Support-0F9D58?&style=for-the-badge&logo=Google&logoColor=white" />| Google           | 04/17/2024          |
 |<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> | Google           | 05/30/2024          |
 
+### Project/Labs 
+* * *
+
+- **[Vulnerability Management Program Implementation](https://github.com/Alexander-Palomares/Project-Vulnerability-Management)**
+- **[STIG Remediation](https://github.com/Alexander-Palomares/GitHub-Portfolio/tree/main/STIGS)**
+- **[Incident Response (Exposed VM)](https://github.com/Alexander-Palomares/Incident-Response-exposed-machine)**
+- **[Incident Response (Sudden Network Slowdown)](https://github.com/Alexander-Palomares/Incident-Response-Sudden-Network-Slowdowns-)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Alexander-Palomares/Threat-Hunting-Scenario-Tor/tree/main)**
+- **[Threat Hunting Scenario (Firefox)](https://github.com/Alexander-Palomares/Threat-Hunting-Scenario-Malicious-Firefox)**
+- **[Threat Hunting Scenario (Atomic Red)](https://github.com/Alexander-Palomares/Threat-Hunting-Scenario-Atomic-Red)**
+
+
