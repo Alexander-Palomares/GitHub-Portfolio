@@ -1,5 +1,10 @@
 # Welcome To My Portfolio 
-<a href="https://linkedin.com/in/alexander-palomares-a867202b1"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+
+[linkedin]: https://linkedin.com/in/alexander-palomares-a867202b1
+[github]: https://github.com/Alexander-Palomares
 
 I’m a passionate learner dedicated to advancing in the tech field, taking one step at a time. With a solid foundation in computer science and coding, I’m eager to gain hands-on experience and eventually join a Security Operations Center (SOC) as a Tier 1 Analyst, where I can apply my skills and continue growing in cybersecurity.
 
