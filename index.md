@@ -57,10 +57,12 @@ Threat Hunting (KQL & EDR) | [Atomic-Red](https://github.com/Alexander-Palomares
 - **[STIG Remediation](https://github.com/Alexander-Palomares/GitHub-Portfolio/tree/main/STIGS)**
 - **[Incident Response (Exposed VM)](https://github.com/Alexander-Palomares/Incident-Response-exposed-machine)**
 - **[Incident Response (Suspected Data Exfiltration)](https://github.com/Alexander-Palomares/Incident-Response-Suspected-Data-Exfiltration-from-PIPd-Employee-)**
+- **[Zero Day (PwnCrypt ransomware)](https://github.com/Alexander-Palomares/Incident-Response-Zero-Day-)**
 - **[Incident Response (Sudden Network Slowdown)](https://github.com/Alexander-Palomares/Incident-Response-Sudden-Network-Slowdowns-)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Alexander-Palomares/Threat-Hunting-Scenario-Tor/tree/main)**
 - **[Threat Hunting Scenario (Firefox)](https://github.com/Alexander-Palomares/Threat-Hunting-Scenario-Malicious-Firefox)**
 - **[Threat Hunting Scenario (Atomic Red)](https://github.com/Alexander-Palomares/Threat-Hunting-Scenario-Atomic-Red)**
+- 
 
 
 
