@@ -62,7 +62,7 @@ Threat Hunting (KQL & EDR) | [Atomic-Red](https://github.com/Alexander-Palomares
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Alexander-Palomares/Threat-Hunting-Scenario-Tor/tree/main)**
 - **[Threat Hunting Scenario (Firefox)](https://github.com/Alexander-Palomares/Threat-Hunting-Scenario-Malicious-Firefox)**
 - **[Threat Hunting Scenario (Atomic Red)](https://github.com/Alexander-Palomares/Threat-Hunting-Scenario-Atomic-Red)**
-- 
+
 
 
 
