@@ -64,7 +64,7 @@ Threat Hunting (KQL & EDR) | [Atomic-Red](https://github.com/Alexander-Palomares
 - **[Threat Hunting Scenario (Atomic Red)](https://github.com/Alexander-Palomares/Threat-Hunting-Scenario-Atomic-Red)**
 - **[Threat Hunting Scenario (Phantom-Hackers)](https://github.com/Alexander-Palomares/Threat-Hunting-Scenario-Phantom-Hackers/tree/main)**
 - **[Threat Hunting Scenario (Operation Acolyte Intrusion)](https://github.com/Alexander-Palomares/Threat-Hunt-Scenario-Operation-Acolyte-Intrusion-)**
-
+- **[Threat Hunting Scenario (Azuki Breach *Port of Entry*)](https://github.com/Alexander-Palomares/Threat-Hunt-Scenario-AZUKI-BREACH-Port-of-Entry-)**
 
 
 
